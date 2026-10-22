@@ -1,0 +1,4 @@
+C:\KunalVerma_Drive\Gihub\ServiceSection\AkumsAutoSync\Release\AkumsSchedular_8-6-2024\AkumsAutoSync.pdb
+C:\KunalVerma_Drive\Gihub\ServiceSection\AkumsAutoSync\Release\AkumsSchedular_8-6-2024\appsettings.json
+C:\KunalVerma_Drive\Gihub\ServiceSection\AkumsAutoSync\Release\AkumsSchedular_8-6-2024\Microsoft.Data.SqlClient.SNI.dll
+C:\KunalVerma_Drive\Gihub\ServiceSection\AkumsAutoSync\Release\AkumsSchedular_8-6-2024\AkumsAutoSync.exe
